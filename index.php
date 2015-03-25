@@ -6,3 +6,5 @@
 */
 define("APP_PATH","./application/");
 define("LIB_PATH","./library/");
+
+echo APP_PATH;
